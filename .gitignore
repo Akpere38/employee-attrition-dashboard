@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+
+# Envs
+.venv/
+.env
+
+
+# Jupyter
+.ipynb_checkpoints
+
+
+# Data
+# data/
+
+# Models and artifacts
+# models/
+
+
+# macOS
+.DS_Store
+
+
+# VSCode
+.vscode/
